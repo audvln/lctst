@@ -67,7 +67,7 @@ mvn clean package
 Now you can run the Java application quite easily:
 ```
 cd target
-java -jar lctest.jar
+java -jar lctst-1.0.0.jar
 ```
 
 ## Sample requests
